@@ -38,6 +38,4 @@ https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 - Durga Sriram
 - 2023005321
 - GITAM UNIVERSITY
-Sampath Kumar
-
-GITAM University
+  
